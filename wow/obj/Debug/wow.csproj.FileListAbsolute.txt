@@ -1,0 +1,7 @@
+C:\Users\Hosein\source\repos\wow\wow\bin\Debug\wow.exe.config
+C:\Users\Hosein\source\repos\wow\wow\bin\Debug\wow.exe
+C:\Users\Hosein\source\repos\wow\wow\bin\Debug\wow.pdb
+C:\Users\Hosein\source\repos\wow\wow\obj\Debug\wow.csproj.AssemblyReference.cache
+C:\Users\Hosein\source\repos\wow\wow\obj\Debug\wow.csproj.CoreCompileInputs.cache
+C:\Users\Hosein\source\repos\wow\wow\obj\Debug\wow.exe
+C:\Users\Hosein\source\repos\wow\wow\obj\Debug\wow.pdb
